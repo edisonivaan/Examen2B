@@ -1,16 +1,4 @@
-/*
-Copyright (C) 2023, TonguitaXd
-------------------------------
-Creacion de la tabla Localidad con datos
-122023
-Version 1.0
-*/
 
-/*
-Numero de cedula Anthony Alejandro Morales Vargas: 1755366877
-Para poblar los datos de las coordenadas ucranianas, cada fila corresponde a un número de cedula en forma inversa
-Entonces: 7786635571
-*/
 
 DROP TABLE IF EXISTS COORDENADAS;
 

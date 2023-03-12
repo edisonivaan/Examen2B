@@ -1,14 +1,14 @@
+-- Active: 1678644579624@@127.0.0.1@3306
 
 
 DROP TABLE IF EXISTS COORDENADAS;
 
     CREATE TABLE IF NOT EXISTS COORDENADAS
     (
-    
-    EJ_CAPACIDAD       INTEGER NUll,
-    EJ_GEOLOCA             VARCHAR(20) NOT NULL,
-    EJ_ARSENAL         VARCHAR(20) NOT NULL,
-    EJ_FECHA_INGRESO      VARCHAR(20) DEFAULT(datetime('now'))
+    EJ_CAPACIDAD        INTEGER NUll,
+    EJ_GEOLOCA          VARCHAR(20) NOT NULL,
+    EJ_ARSENAL          VARCHAR(20) NOT NULL,
+    EJ_FECHA_INGRESO    VARCHAR(20) DEFAULT(datetime('now'))
     );
 
     INSERT INTO COORDENADAS (EJ_CAPACIDAD, EJ_GEOLOCA, EJ_ARSENAL)
@@ -56,9 +56,9 @@ SELECT * FROM COORDENADAS;
     INSERT INTO USUARIOS    (EJ_ID_USUARIOS, EJ_USUARIOS, EJ_CONTRASENA_ENCRIPTADA)
                     VALUES  (1,'profe', '81dc9bdb52d04dc20036dbd8313ed055');
     INSERT INTO USUARIOS    (EJ_ID_USUARIOS, EJ_USUARIOS, EJ_CONTRASENA_ENCRIPTADA)
-                    VALUES  (1,'edison.jimenez03@epn.edu.ec', '5283c0b3551ba795564c7bce39b5e221');
+                    VALUES  (2,'edison.jimenez03@epn.edu.ec', '02c50857b95537844acfd17adcfea503');
     INSERT INTO USUARIOS    (EJ_ID_USUARIOS, EJ_USUARIOS, EJ_CONTRASENA_ENCRIPTADA)
-                    VALUES  (1,'usuario.random@gmail.com', 'dafc0567e2fe31cbdb56e47472030db3');
+                    VALUES  (3,'usuario.random@gmail.com', 'dafc0567e2fe31cbdb56e47472030db3');
     
 -----------------------------------------------------------------------------------------
 SELECT * FROM USUARIOS;

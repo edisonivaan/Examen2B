@@ -1,0 +1,101 @@
+<mxfile host="65bd71144e">
+    <diagram id="aMVCJyMKiYvqi2_fC0N_" name="Page-1">
+        <mxGraphModel dx="1805" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://hhmosquera.files.wordpress.com/2014/05/arbol1.png;" vertex="1" parent="1">
+                    <mxGeometry x="140.00000000000003" y="130" width="166.09" height="105" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#F5F5F5;" edge="1" parent="1" source="3" target="10">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://assets.stickpng.com/images/585e4bd7cb11b227491c3397.png;" vertex="1" parent="1">
+                    <mxGeometry x="980" y="200" width="180" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" style="edgeStyle=none;html=1;fontColor=#F5F5F5;entryX=0.549;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4" target="21">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="730" y="740" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="725" y="750"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.icon-icons.com/icons2/1508/PNG/512/systemusers_104569.png;" vertex="1" parent="1">
+                    <mxGeometry x="650" y="780" width="150" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/2612/2612467.png;" vertex="1" parent="1">
+                    <mxGeometry x="600" y="190" width="200" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" style="edgeStyle=none;html=1;fontColor=#F5F5F5;" edge="1" parent="1" source="6" target="10">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://appsourcing.net/wp-content/uploads/elementor/thumbs/blog-contrasena-segura-nr5i5ffz90hnvo26tuurj79pnvzjkk4n9n5hvz0dk6.jpg;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="540" width="166.67" height="125" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="&lt;font&gt;CONTRASEÑA&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Comic Sans MS;fontSize=14;fontColor=#F5F5F5;" vertex="1" parent="1">
+                    <mxGeometry x="224.08" y="660" width="118.5" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="&lt;font&gt;USUARIO&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Comic Sans MS;fontSize=14;fontColor=#F5F5F5;" vertex="1" parent="1">
+                    <mxGeometry x="665.75" y="920" width="118.5" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://img.freepik.com/vector-gratis/diseno-plantilla-pagina-inicio-sesion-usuario-sitio-web_1017-30786.jpg;" vertex="1" parent="1">
+                    <mxGeometry x="600" y="470" width="230" height="230" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;dashed=1;fontFamily=Comic Sans MS;fontSize=14;fontColor=none;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="690" y="171.60000000000002" as="sourcePoint"/>
+                        <mxPoint x="1080" y="190" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="690" y="150"/>
+                            <mxPoint x="1080" y="150"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="16" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;dashed=1;fontFamily=Comic Sans MS;fontSize=14;fontColor=none;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="220" y="121.60000000000008" as="sourcePoint"/>
+                        <mxPoint x="670" y="170" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="220" y="100"/>
+                            <mxPoint x="670" y="100"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="17" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;dashed=1;fontFamily=Comic Sans MS;fontSize=14;fontColor=none;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="5">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="270" y="531.6000000000001" as="sourcePoint"/>
+                        <mxPoint x="719.9999999999998" y="580" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="270" y="510"/>
+                            <mxPoint x="510" y="510"/>
+                            <mxPoint x="510" y="240"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="18" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;dashed=1;fontFamily=Comic Sans MS;fontSize=14;fontColor=none;entryX=0;entryY=0.35;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="5">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="640" y="850" as="sourcePoint"/>
+                        <mxPoint x="569.9999999999998" y="310" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="550" y="850"/>
+                            <mxPoint x="550" y="260"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="19" value="&lt;font&gt;ACTOR&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Comic Sans MS;fontSize=14;fontColor=#F5F5F5;" vertex="1" parent="1">
+                    <mxGeometry x="1010" y="380" width="118.5" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="&lt;font&gt;BASE DE DATOS&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Comic Sans MS;fontSize=14;fontColor=#F5F5F5;" vertex="1" parent="1">
+                    <mxGeometry x="640.75" y="380" width="118.5" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="&lt;font&gt;LOGIN&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Comic Sans MS;fontSize=14;fontColor=#F5F5F5;" vertex="1" parent="1">
+                    <mxGeometry x="660" y="690" width="118.5" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="&lt;font&gt;ARBOL BINARIO&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Comic Sans MS;fontSize=14;fontColor=#F5F5F5;" vertex="1" parent="1">
+                    <mxGeometry x="163.8" y="235" width="118.5" height="50" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
